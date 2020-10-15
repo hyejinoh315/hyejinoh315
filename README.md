@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyejinoh315%2Fhyejinoh315&count_bg=%23C8ADFF&title_bg=%239856FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-https://www.notion.so/Portfolio-a8d31bfba35245a4bb03e5f0c88de490
